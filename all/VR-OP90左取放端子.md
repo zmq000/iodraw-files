@@ -1,4 +1,4 @@
 ```mermaid
 graph TD
-0
+0[左qu'fnag'duan]
 ```
