@@ -1,4 +1,4 @@
 ```mermaid
 graph TD
-o
+0[zu]
 ```
