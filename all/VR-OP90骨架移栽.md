@@ -1,5 +1,6 @@
 ```mermaid
 graph TD
-   0[gu'jia] 
+   0[骨架移栽]-->10
+   10 
   
 ```
