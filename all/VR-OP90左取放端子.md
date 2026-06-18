@@ -1,4 +1,4 @@
 ```mermaid
 graph TD
-0[左qu'fnag'duan]
+0[左取放端子]--
 ```
