@@ -1,5 +1,5 @@
 ```mermaid
 graph TD
-   0 
+   0[gu'jia] 
   
 ```
