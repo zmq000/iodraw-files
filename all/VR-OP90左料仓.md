@@ -1,4 +1,4 @@
 ```mermaid
 graph TD
-0[zu]
+0[左料仓]-->
 ```
